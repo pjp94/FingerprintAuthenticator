@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fingerprint Authenticator</string>
+    <string name="fingerprint_dialog_title">Sign in</string>
+    <string name="fingerprint_dialog_description">Scan your fingerprint to access your account.</string>
+    <string name="fingerprint_content_description">Fingerprint dialog image.</string>
+    <string name="logo_content_description">Samsung logo.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Login -->
+    <string name="email">Email</string>
+    <string name="password">Password (optional)</string>
+
+    <!-- Welcome -->
+    <string name="welcome_message" formatted="false">Welcome, user #%d!</string>
+
+    <!-- Errors -->
+    <string name="fingerprint_error">Either your device does not have a fingerprint scanner or there are no fingerprints set up. You can log in manually by entering your password, or set up a fingerprint in the Security &amp; Location page of Settings.</string>
+    <string name="settings_button">Take me to Settings</string>
+    <string name="error_title">Authentication unavailable</string>
+    <string name="toast_error">Error reading fingerprint.</string>
+    <string name="toast_fail">Fingerprint authentication failed.</string>
+</resources>
